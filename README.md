@@ -1,2 +1,3 @@
 # bookbot
-bookbot project written in python for boot.dev curriculum
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
